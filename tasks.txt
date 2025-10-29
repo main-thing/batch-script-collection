@@ -1,0 +1,8 @@
+OfficeClickToRun.exe
+MicrosoftEdgeUpdate.exe
+PresentationFontCache.exe
+UiPath.RobotJS.UserHost.exe
+UiPath.UpdateService.Agent.exe
+UiPath.UpdateService.Worker.exe
+TextInputHost.exe
+SearchApp.exe
